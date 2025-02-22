@@ -12,6 +12,7 @@ struct LottieAnimationsListApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }

@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C2C59C992D5A8240003F77EE /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = C2C59C982D5A8240003F77EE /* Lottie */; };
-		C2C59C9B2D5A8240003F77EE /* Lottie-Dynamic in Frameworks */ = {isa = PBXBuildFile; productRef = C2C59C9A2D5A8240003F77EE /* Lottie-Dynamic */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2C59C992D5A8240003F77EE /* Lottie in Frameworks */,
-				C2C59C9B2D5A8240003F77EE /* Lottie-Dynamic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
